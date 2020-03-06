@@ -1,7 +1,5 @@
 ### <center>GoBang Report</center>
 
-<center>王冬青&emsp; &emsp; 11712639</center>
-
 #### 1. Preliminaries 
 
 ##### 1.1 Problem Description
